@@ -7,6 +7,7 @@
 
 # Welcome to CitrineOS
 
+modifications made for evolta proyect suing V1.8.3
 CitrineOS is an open-source project aimed at providing a modular server runtime for managing Electric Vehicle (EV)
 charging infrastructure. This README will guide you through the process of installing and running CitrineOS.
 
